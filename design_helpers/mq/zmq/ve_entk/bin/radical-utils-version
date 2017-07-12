@@ -1,0 +1,6 @@
+#!/home/vivek/Research/repos/radical.entk-0.6/design_helpers/mq/zmq/ve_entk/bin/python2
+
+import radical.utils as ru
+
+print ru.version_detail
+
